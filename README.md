@@ -1,4 +1,4 @@
-"""# ✍️ Assistente Estratégico: Vendas & Conteúdo para Escritores Independentes 📚
+# ✍️ Assistente Estratégico: Vendas & Conteúdo para Escritores Independentes 📚
 
 ### 🎯 Visão Geral
 * **Tema:** Assistência inteligente de vendas e criação de conteúdo. 💡
